@@ -1,2 +1,2 @@
 # bookbot
-This is my another project.
+Bookbot is my first project.
